@@ -1,0 +1,7 @@
+{
+  "name": "AppTask",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
